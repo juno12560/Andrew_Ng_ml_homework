@@ -1,1 +1,1 @@
-# Andrew_Ng_ml_homework
+# Machine learning Homework for Stanford Course by Andrew Ng
